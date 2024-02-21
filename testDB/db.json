@@ -1,0 +1,64 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "title": "Test Project",
+            "lanes": [
+                {
+                    "id": 1,
+                    "title": "To Do"
+                },
+                {
+                    "id": 2,
+                    "title": "In Progress"
+                },
+                {
+                    "id": 3,
+                    "title": "QA"
+                },
+                {
+                    "id": 4,
+                    "title": "Done"
+                }
+            ],
+            "tasks": [
+                {
+                    "id": 1,
+                    "title": "Test Task",
+                    "body": "test body asbd ad",
+                    "laneId": 1
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Test Project 2",
+            "lanes": [
+                {
+                    "id": 1,
+                    "title": "To Do"
+                },
+                {
+                    "id": 2,
+                    "title": "In Progress"
+                },
+                {
+                    "id": 3,
+                    "title": "QA"
+                },
+                {
+                    "id": 4,
+                    "title": "Done"
+                }
+            ],
+            "tasks": [
+                {
+                    "id": 1,
+                    "title": "Test Task 2",
+                    "body": "test body asbd ad",
+                    "laneId": 2
+                }
+            ]
+        }
+    ]
+}
